@@ -1,5 +1,5 @@
 latihan1
-latihan2
+latihan2 - ini baris update dari coba2
 latihan3
 latihan4
 latihan5
