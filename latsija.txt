@@ -4,3 +4,4 @@ latihan3
 latihan4
 latihan5
 latihan6
+latihan7 - ini baris tambahan latihan7 dari tes3
